@@ -44,4 +44,4 @@ Some structure and examples are based on:
 >  MITRE hereby grants you a non-exclusive, royalty-free license to use CWE for research, development, and commercial purposes. Any copy you make for such purposes is authorized on the condition that you reproduce MITRE’s copyright designation and this license in any such copy.
 
 Prior to developing this training course, Instaclustr used an adapted
-version of [the 'Security Training for Engineers' course open sourced by PagerDuty](https://github.com/PagerDuty/security-training/blob/master/docs/for_engineers/index.md) which inspired us to open source ours. That one and might be a great starting point if ours doesn't suit you.
+version of [the 'Security Training for Engineers' course open sourced by PagerDuty](https://github.com/PagerDuty/security-training/blob/master/docs/for_engineers/index.md) which inspired us to open source ours. That one might be a great starting point if ours doesn't suit you.
